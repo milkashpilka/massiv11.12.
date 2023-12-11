@@ -1,0 +1,7 @@
+C:\Users\Милена\OneDrive\Рабочий стол\alg\Massiv5\Massiv5\bin\Debug\Massiv5.exe.config
+C:\Users\Милена\OneDrive\Рабочий стол\alg\Massiv5\Massiv5\bin\Debug\Massiv5.exe
+C:\Users\Милена\OneDrive\Рабочий стол\alg\Massiv5\Massiv5\bin\Debug\Massiv5.pdb
+C:\Users\Милена\OneDrive\Рабочий стол\alg\Massiv5\Massiv5\obj\Debug\Massiv5.csproj.AssemblyReference.cache
+C:\Users\Милена\OneDrive\Рабочий стол\alg\Massiv5\Massiv5\obj\Debug\Massiv5.csproj.CoreCompileInputs.cache
+C:\Users\Милена\OneDrive\Рабочий стол\alg\Massiv5\Massiv5\obj\Debug\Massiv5.exe
+C:\Users\Милена\OneDrive\Рабочий стол\alg\Massiv5\Massiv5\obj\Debug\Massiv5.pdb

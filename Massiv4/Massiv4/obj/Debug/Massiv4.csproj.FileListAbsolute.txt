@@ -1,0 +1,7 @@
+C:\Users\Милена\OneDrive\Рабочий стол\alg\Massiv4\Massiv4\bin\Debug\Massiv4.exe.config
+C:\Users\Милена\OneDrive\Рабочий стол\alg\Massiv4\Massiv4\bin\Debug\Massiv4.exe
+C:\Users\Милена\OneDrive\Рабочий стол\alg\Massiv4\Massiv4\bin\Debug\Massiv4.pdb
+C:\Users\Милена\OneDrive\Рабочий стол\alg\Massiv4\Massiv4\obj\Debug\Massiv4.csproj.AssemblyReference.cache
+C:\Users\Милена\OneDrive\Рабочий стол\alg\Massiv4\Massiv4\obj\Debug\Massiv4.csproj.CoreCompileInputs.cache
+C:\Users\Милена\OneDrive\Рабочий стол\alg\Massiv4\Massiv4\obj\Debug\Massiv4.exe
+C:\Users\Милена\OneDrive\Рабочий стол\alg\Massiv4\Massiv4\obj\Debug\Massiv4.pdb
